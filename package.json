@@ -1,0 +1,23 @@
+{
+  "name": "vue-css-transform",
+  "version": "1.0.0",
+  "description": "project description",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "vcss": "bin/index.js"
+  },
+  "author": "author",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^8.3.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^8.2.0",
+    "postcss": "^8.4.4",
+    "prettier": "^2.5.0",
+    "stylus-supremacy": "^2.15.0",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
